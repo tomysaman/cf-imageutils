@@ -38,13 +38,13 @@ The resizeImage function returns a structure.
 
 Resize successful
 
-![success](https://github.com/tomysaman/cf-imageutils/blob/master/assets/result_success.png?raw)
+![success](/assets/result_success.png?raw)
 
 Note: The path in IMAGE and IMAGEPATH are absolute physical path (i.e. the one you get by using expandPath function)
 
 Error
 
-![error](https://github.com/tomysaman/cf-imageutils/blob/master/assets/result_error.png?raw)
+![error](/assets/result_error.png?raw)
 
 #### Examples
 Resize image to width 800px (height = auto)
